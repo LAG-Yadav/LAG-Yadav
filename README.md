@@ -45,7 +45,7 @@ being rediscovered six months later. I care more about the report being read tha
 
 <img src="assets/s03.svg" alt="03 selected work" width="100%">
 
-| | |
+| Work | Detail |
 |---|---|
 | **EON PentAGI** | Agentic penetration-testing framework. Orchestrated recon, exploitation and reporting profiles driven from one engagement state. |
 | **Cloud email takeover response** | Forensic reconstruction of a nine-day AiTM session-hijack against a Microsoft 365 tenant. Full timeline from sign-in logs, exfiltration scope, POPIA exposure and a prioritised remediation roadmap. |

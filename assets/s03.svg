@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" width="1200" height="44" role="img" aria-label="03 selected work">
-  <rect width="1200" height="44" fill="none"/>
+  <rect width="1200" height="44" fill="#0a0c09"/>
   <text x="2" y="29" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="bold" fill="#d4e32e" letter-spacing="2">03</text>
   <text x="42" y="29" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="bold" fill="#f2f4ec" letter-spacing="2">//</text>
   <text x="80" y="29" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="bold" fill="#f2f4ec" letter-spacing="3.2">selected work</text>

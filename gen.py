@@ -80,7 +80,7 @@ def hero():
 
 def section(num, label):
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" width="1200" height="44" role="img" aria-label="{num} {label}">
-  <rect width="1200" height="44" fill="none"/>
+  <rect width="1200" height="44" fill="{INK}"/>
   <text x="2" y="29" font-family="{MONO}" font-size="15" font-weight="bold" fill="{LIME}" letter-spacing="2">{num}</text>
   <text x="42" y="29" font-family="{MONO}" font-size="15" font-weight="bold" fill="{WHITE}" letter-spacing="2">//</text>
   <text x="80" y="29" font-family="{MONO}" font-size="15" font-weight="bold" fill="{WHITE}" letter-spacing="3.2">{label}</text>
@@ -168,7 +168,7 @@ being rediscovered six months later. I care more about the report being read tha
 
 <img src="assets/s03.svg" alt="03 selected work" width="100%">
 
-| | |
+| Work | Detail |
 |---|---|
 | **EON PentAGI** | Agentic penetration-testing framework. Orchestrated recon, exploitation and reporting profiles driven from one engagement state. |
 | **Cloud email takeover response** | Forensic reconstruction of a nine-day AiTM session-hijack against a Microsoft 365 tenant. Full timeline from sign-in logs, exfiltration scope, POPIA exposure and a prioritised remediation roadmap. |
