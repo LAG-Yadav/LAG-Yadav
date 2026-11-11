@@ -90,8 +90,8 @@ def section(num, label):
 
 
 def badge(label, logo, slug):
-    return (f"![{label}](https://img.shields.io/badge/{slug}-0f110d?style=flat-square"
-            f"&logo={logo}&logoColor={LIME.lstrip('#')})")
+    return (f'<img src="https://img.shields.io/badge/{slug}-0f110d?style=flat-square'
+            f'&amp;logo={logo}&amp;logoColor={LIME.lstrip("#")}" alt="{label}" height="20">')
 
 
 (ASSETS / "hero.svg").write_text(hero(), encoding="utf-8")
