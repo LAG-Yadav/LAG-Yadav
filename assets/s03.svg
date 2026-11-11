@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" width="1200" height="44" role="img" aria-label="03 selected work">
+  <rect width="1200" height="44" fill="none"/>
+  <text x="2" y="29" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="bold" fill="#d4e32e" letter-spacing="2">03</text>
+  <text x="42" y="29" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="bold" fill="#f2f4ec" letter-spacing="2">//</text>
+  <text x="80" y="29" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="bold" fill="#f2f4ec" letter-spacing="3.2">selected work</text>
+  <line x1="0" y1="40" x2="1200" y2="40" stroke="#1b2116" stroke-width="1.4"/>
+  <line x1="0" y1="40" x2="86" y2="40" stroke="#d4e32e" stroke-width="1.8"/>
+</svg>
